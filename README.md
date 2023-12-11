@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 💫 About Me:
+<!-- # 💫 About Me: -->
 👋 Hi, I’m Anurag<br>👀 I’m interested in Web Development<br>🌱 I’m always learning New Technologies<br>💞️ I’m looking to collaborate on my projects<br>📫 Reach me here /in/anuragv314
