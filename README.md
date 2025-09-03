@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- # 💫 About Me: 
-👋 Hi, I’m Anurag<br>👀 I’m interested in Web Development<br>🌱 I’m always learning New Technologies<br>💞️ I’m looking to collaborate on my projects<br>📫 Reach me here /in/anuragv314 -->
+# 💫 About Me: 
+👋 Hi, I’m Anurag<br>👀 I’m a Software Engineer<br>🌱 I’m always learning New Technologies<br>💞️ I’m looking to collaborate on my projects<br>📫 Reach me here /in/anuragv314 
 
 
-# 💫 About Me:
-👋 Hi, I’m Anurag<br>👀 I’m interested in Data Science<br>🌱 I’m always learning New Technologies<br>💞️ I’m looking to collaborate on my projects<br>📫 Reach me here /in/anuragv314
+<!-- # 💫 About Me:
+👋 Hi, I’m Anurag<br>👀 I’m interested in Data Science<br>🌱 I’m always learning New Technologies<br>💞️ I’m looking to collaborate on my projects<br>📫 Reach me here /in/anuragv314-->
 #
 <!-- # 💻 Tech Stack: -->
 ![python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white) ![Numpy](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=NumPy&logoColor=white) 
