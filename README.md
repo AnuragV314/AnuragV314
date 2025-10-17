@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me: 
-👋 Hi, I’m Anurag<br>👀 I’m a Software Engineer<br>🌱 I’m always learning New Technologies<br>💞️ I’m looking to collaborate on my projects<br>📫 Reach me here /in/anuragv314 | web- 
+👋 Hi, I’m Anurag<br>👀 I’m a Software Engineer<br>🌱 I’m always learning New Technologies<br>💞️ I’m looking to collaborate on my projects<br>📫 Reach me here [/in/anuragv314](https://www.linkedin.com/in/anuragv314/) | web- 
 [anuragv314.github.io](https://anuragv314.github.io/portfolio/anurag_protfolio.html)
 
 
